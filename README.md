@@ -29,7 +29,7 @@ Loaded using `pd.read_csv()`.
 
 ## 🔗 Google Colab Link
 
-[Open in Colab]((https://colab.research.google.com/drive/1E7XcxF-MsQm5vZcHvOvvV2vemjdyPkYy?usp=sharing))
+[Open in Colab](https://colab.research.google.com/drive/1E7XcxF-MsQm5vZcHvOvvV2vemjdyPkYy?usp=sharing)
 
 ## 📄 License
 
